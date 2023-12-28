@@ -3,11 +3,11 @@ Link to the data set:
 Historic Dataset - https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8
 2020 YTD Dataset - https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Year-To-Date-/5ucz-vwe8
 
-This project is about NYPC Shooting data analysis. After analyzing the data from both the current data and historical data, we can make few observations.
+This project is about NYPC Shooting data analysis. After analyzing the data from both current data and historical data, we can make few observations.
 
 1. There was a downward trend of the number of shootings each year until 2019 and they rose again in 2020
 2. The most number of shooting incidents happen in the summer usually in June, July, August and September months.
-3. Most of them happen on during the hours from 2200 to 0040 on Friday leading into Saturday and on Saturday leading into Sunday. So it is safe to say that most of them happen on weekends.
+3. Most of them happen during the hours from 2200 to 0040 on Friday leading into Saturday and on Saturday leading into Sunday. So it is safe to say that most of them happen on weekends.
 4. Most of the people involved in shooting incidents are Black by race followed by Hispanics.
 5. More than 90% of the people involved in shooting incidents are males
 6. Most affected people are in the age group of 18 to 44 years. Perpetrators are more likely to shoot people in their own age group.
