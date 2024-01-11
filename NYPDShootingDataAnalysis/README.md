@@ -1,7 +1,7 @@
 Link to the data set:
 
 Historic Dataset - https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8
-2020 YTD Dataset - https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Year-To-Date-/5ucz-vwe8
+2023 YTD Dataset - https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Year-To-Date-/5ucz-vwe8
 
 This project is about NYPC Shooting data analysis. After analyzing the data from both current data and historical data, we can make few observations.
 
